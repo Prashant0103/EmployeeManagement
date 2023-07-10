@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="HomePage.master.cs" Inherits="HomePage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css"/>
+    <script rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="assets/bootstrap/css/homepage-style.css" rel="stylesheet" />
+        <link href="assets/bootstrap/css/style.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-image:url('backview.png');">
+     <form id="form1" runat="server">           
+    <div>
+        <nav class="navbar navbar-expand-lg bg-dark">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <div class="navbar-nav ml-auto">
+        <a class="nav-link" href="Index.aspx">Home</a>
+        <a class="nav-link" href="EmployeeDetails.aspx">Employee List</a>
+
+         <li class="nav-item dropdown">
+             <a class="nav-link dropdown-toggle ml-3" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="#">
+                 <telerik:RadLabel ID="session_username" Text="prashant@gmail.com" runat="server" ForeColor="MediumVioletRed" ></telerik:RadLabel>
+                     <img src="assets\images\photo.png" class="rounded-circle" width="40" height="40" >
+              </a>          
+             <ul class="dropdown-menu dropdown-menu-right mt-4" aria-labelledby="navbarDropdown2">
+                <li>
+                    <telerik:RadButton ID="session_logout" runat="server" Text=" Logout" OnClick="session_logout_Click" ConfirmSettings-UseRadConfirm="true" ConfirmSettings-ConfirmText="Are you sure you want to Logout?" ConfirmSettings-Title="Logout" CssClass="border-0 ml-1" Width="150px" Icon-PrimaryIconUrl="~/assets/images/logout.png"></telerik:RadButton>
+                </li>
+            </ul>
+        </li>      
+       
+      </div>
+    </div>
+  </div>
+</nav>
+    </div>
+
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+    
+          </form>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.pdb

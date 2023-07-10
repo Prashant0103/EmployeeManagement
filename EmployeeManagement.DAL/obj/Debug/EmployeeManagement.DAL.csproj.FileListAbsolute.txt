@@ -1,0 +1,9 @@
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CopyComplete
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.pdb

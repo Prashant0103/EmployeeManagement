@@ -1,0 +1,11 @@
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\bin\Debug\EmployeeManagment.BAL.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\bin\Debug\EmployeeManagment.BAL.pdb
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\bin\Debug\EmployeeManagement.DAL.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\obj\Debug\EmployeeManagment.BAL.csproj.AssemblyReference.cache
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\obj\Debug\EmployeeManagment.BAL.csproj.CoreCompileInputs.cache
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\obj\Debug\EmployeeManagment.BAL.csproj.CopyComplete
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\obj\Debug\EmployeeManagment.BAL.dll
+C:\Users\LT-338\source\repos\EmployeeManagement\EmployeeManagment.BAL\obj\Debug\EmployeeManagment.BAL.pdb
